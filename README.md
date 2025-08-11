@@ -39,7 +39,7 @@ Deliver an **interactive visual tool** that:
 - Highlights top employee salaries and termination reasons.  
 
 ### **Walkthrough of Key Visuals**
-- **KPI Cards** – Overall Employees, Active Employees %, Termination Rate %, Average Hiring & Termination Rates.  
+- **KPI Cards** – Overall Employees, Active Employees %, Termination Rate %,Average Absence, Average Hiring & Termination Rates.  
 - **Treemap** – Termination reasons categorized.  
 - **Bar Chart** – Employees by department and performance scores by manager.  
 - **Donut Chart** – Marital status distribution.  
@@ -54,7 +54,8 @@ Deliver an **interactive visual tool** that:
 ---
 
 ## 🖼 Screenshot
-<img width="1192" height="668" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/cbfba298-d646-447b-862d-b79f7dd8cdd6" />
+<img width="1326" height="748" alt="H R ANALYSIS Dashboard" src="https://github.com/user-attachments/assets/270f256f-1908-445f-bce5-d128fa1a0f18" />
+
 
 
 
