@@ -55,7 +55,7 @@ Deliver an **interactive visual tool** that:
 
 ## 🖼 Screenshot
 
-<img width="1324" height="743" alt="H R ANALYSIS Dashboard" src="https://github.com/user-attachments/assets/24f81433-7640-48b7-a950-71992232dfda" />
+<img width="1326" height="742" alt="H R ANALYSIS Dashboard" src="https://github.com/user-attachments/assets/c597114b-9a77-41c5-acc2-a01cd99b9156" />
 
 
 
